@@ -55,7 +55,7 @@
       "desktop": { "schemes": ["browsentic"] }
     },
     "updater": {
-      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDM0MDRFRkQ2RjcyMUUzNzEKUldSeDR5SDMxdThFTkkxZXVFa0Y1OVhpTTVaTGdIQmdXV0RpMXliclZnRi81QVJFVEl6dDkwSzUK",
+      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDA2QzZDMjUwMUQzRDdBMDAKUldRQWVqMGRVTUxHQm9Sb2ZLOU9sQ05VWXJLRjNwN213NFc2RkE0STNsRmROT1YyejUwNUI0MGQK",
       "endpoints": ["https://github.com/imshaikot/browsentic/releases/latest/download/latest.json"],
       "windows": { "installMode": "passive" }
     }
